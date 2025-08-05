@@ -80,7 +80,7 @@ By completing this series, you will:
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/computer-vision-hands-on.git
+git clone https://github.com/zaidalhuda/Hands-On-Computer-Vision-Series-A-Practical-Learning-Journey.git
 cd computer-vision-hands-on
 ```
 
