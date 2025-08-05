@@ -1,7 +1,8 @@
 # 🔬 Hands-On Computer Vision Series: A Practical Learning Journey
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-Latest-orange.svg)](https://tensorflow.org/)/[![PyTorch](https://img.shields.io/badge/PyTorch-Latest-red.svg)](https://pytorch.org/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-Latest-orange.svg)](https://tensorflow.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-Latest-red.svg)](https://pytorch.org/)
 [![Status: Active](https://img.shields.io/badge/Status-Active-green.svg)]()
 
 Welcome to the **Hands-On Computer Vision Series**, a step-by-step practical guide designed to help students **learn computer vision by building models from scratch** — one notebook at a time.
