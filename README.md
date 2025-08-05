@@ -1,4 +1,4 @@
-# 🧠 Hands-On Computer Vision Series: A Practical Learning Journey
+# 🔬 Hands-On Computer Vision Series: A Practical Learning Journey
 
 Welcome to the **Hands-On Computer Vision Series**, a step-by-step practical guide designed to help students **learn computer vision by building models from scratch** — one notebook at a time.
 
