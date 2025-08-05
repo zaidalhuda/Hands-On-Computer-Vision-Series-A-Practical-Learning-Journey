@@ -39,19 +39,18 @@ The series is designed as a **progressive hands-on journey** that builds from ba
 
 | Practical | Notebook | Topics Covered |
 |-----------|----------|----------------|
-| 🧪 Practical 1 | [Building a Simple Neural Network (No Activation Functions)](./notebooks/Practical%201%20Building%20a%20Simple%20Neural%20Network%20(No%20Activation%20Functions).ipynb) | Linear model, tensor pipeline, image classification |
-| 🔥 Practical 2 | [Enhancing the Neural Network with Activation Functions](./notebooks/Practical%202%20Enhancing%20the%20Neural%20Network%20with%20Activation%20Functions.ipynb) | ReLU, Softmax, loss functions, hyperparameters |
-| 📈 Practical 3 | [Building Convolutional Neural Networks for Image Recognition](./notebooks/Practical%203%20-%20Building%20Convolutional%20Neural%20Networks%20for%20Image%20Recognition.ipynb) | CNN architectures, convolution operations, feature maps |
-| 🎯 Practical 4 | [Object Detection with YOLO](./notebooks/Practical%204%20-%20Object%20Detection%20with%20YOLO.ipynb) | YOLO implementation, bounding boxes, real-time detection |
-| 🎨 Practical 5 | [Image Segmentation for Medical Images](./notebooks/Practical%205%20-%20Image%20Segmentation%20for%20Medical%20Images.ipynb) | U-Net, semantic segmentation, mask generation |
-| 🖼️ Practical 6 | [Transfer Learning with Pre-trained Models](./notebooks/Practical%206%20-%20Transfer%20Learning%20with%20Pre-trained%20Models.ipynb) | Fine-tuning, feature extraction, model adaptation |
-| 📊 Practical 7 | [Data Augmentation and Preprocessing Techniques](./notebooks/Practical%207%20-%20Data%20Augmentation%20and%20Preprocessing%20Techniques.ipynb) | Data augmentation, normalization, preprocessing pipelines |
-| 🏋️ Practical 8 | [Custom Training Loops and Optimization](./notebooks/Practical%208%20-%20Custom%20Training%20Loops%20and%20Optimization.ipynb) | Training loops, optimizers, learning rate scheduling |
-| 🎯 Practical 9 | [Model Evaluation and Performance Metrics](./notebooks/Practical%209%20-%20Model%20Evaluation%20and%20Performance%20Metrics.ipynb) | Accuracy, precision, recall, confusion matrices |
-| 🚀 Practical 10 | [Deploying Computer Vision Models](./notebooks/Practical%2010%20-%20Deploying%20Computer%20Vision%20Models.ipynb) | Model deployment, inference optimization, production |
-| 🎨 Practical 11 | [Vision Transformers for Image Classification](./notebooks/Practical%2011%20-%20Vision%20Transformers%20for%20Image%20Classification.ipynb) | ViT architecture, attention mechanisms, transformer implementation |
-| 🔥 Practical 12 | [Generative Models: Creating Art with GANs](./notebooks/Practical%2012%20-%20Generative%20Models%20Creating%20Art%20with%20GANs.ipynb) | GANs, image generation, creative applications |
-
+| 🧪 Practical 1 | [Building a Simple Neural Network (No Activation Functions)](./notebooks/Practical%201%20Building%20a%20Simple%20Neural%20Network%20(No%20Activation%20Functions).ipynb) | Linear layers, image classification basics, weight learning |
+| 🔥 Practical 2 | [Enhancing the Neural Network with Activation Functions](./notebooks/Practical%202%20Enhancing%20the%20Neural%20Network%20with%20Activation%20Functions.ipynb) | ReLU, Softmax, non-linearity, loss functions, hyperparameters, parameter count |
+| 🔧 Practical 3 | *Coming Soon – Building Convolutional Neural Networks*                                      | CNN filters, convolution layers, spatial hierarchies             |
+| 🎯 Practical 4 | *Coming Soon – Object Detection with YOLO*                                                  | YOLO pipeline, bounding boxes, real-time detection               |
+| 🩺 Practical 5 | *Coming Soon – Image Segmentation for Medical Images*                                       | U-Net, mask generation, pixel-level segmentation                 |
+| 🔄 Practical 6 | *Coming Soon – Transfer Learning with Pre-trained Models*                                   | Fine-tuning, feature reuse, adapting models                      |
+| 📊 Practical 7 | *Coming Soon – Data Augmentation & Preprocessing*                                           | Image transformations, normalization, augmentation pipelines     |
+| 🧵 Practical 8 | *Coming Soon – Custom Training Loops & Optimization*                                        | Training from scratch, learning rate scheduling, optimizer tweaks|
+| ✅ Practical 9 | *Coming Soon – Model Evaluation & Performance Metrics*                                      | Accuracy, confusion matrix, recall/precision/F1                  |
+| 🚀 Practical 10 | *Coming Soon – Deploying Computer Vision Models*                                           | Model serving, inference speed, export to production             |
+| 🔍 Practical 11 | *Coming Soon – Vision Transformers for Image Classification*                               | ViT, attention mechanisms, transformer models                    |
+| 🎨 Practical 12 | *Coming Soon – Generative Models: Creating Art with GANs*                                  | GANs, image synthesis, creative vision applications              |
 ---
 
 ## 🎯 Learning Outcomes
