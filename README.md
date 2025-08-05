@@ -25,7 +25,7 @@ Each notebook focuses on a single core concept - from building your first neural
 - **🏗️ Modern Architectures**: Cover everything from CNNs to Vision Transformers
 - **🎨 Real Applications**: Object detection, segmentation, generative models, and more
 
-This series is based on the foundational concepts from **"Practical Machine Learning for Computer Vision"** book ([GitHub Repository](https://github.com/your-username/practical-ml-computer-vision)), enhanced with hands-on implementations and modern deep learning techniques.
+**This series is based on the foundational concepts from ["Practical Machine Learning for Computer Vision"](https://www.amazon.com/Practical-Machine-Learning-Computer-Vision/dp/1098102363) book ([GitHub Repository](https://github.com/GoogleCloudPlatform/practical-ml-vision-book)), enhanced with hands-on implementations and modern deep learning techniques.**
 
 ---
 
