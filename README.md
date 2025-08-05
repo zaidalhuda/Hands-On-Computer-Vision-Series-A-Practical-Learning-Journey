@@ -39,7 +39,7 @@ The series is designed as a **progressive hands-on journey** that builds from ba
 
 | Practical | Notebook | Topics Covered |
 |-----------|----------|----------------|
-| 🧪 Practical 1 | [Building a Simple Neural Network (No Activation Functions)](./notebooks/Practical%201%20Building%20a%20Simple%20Neural%20Network%20(No%20Activation%20Functions).ipynb) | Linear layers, image classification basics, weight learning |
+| 🧪 Practical 1 | [Building a Simple Neural Network (No Activation Functions)](./notebooks/Practical_1_Building_a_Simple_Neural_Network_(No_Activation_Functions).ipynb) | Linear layers, image classification basics, weight learning |
 | 🔥 Practical 2 | [Enhancing the Neural Network with Activation Functions](./notebooks/Practical%202%20Enhancing%20the%20Neural%20Network%20with%20Activation%20Functions.ipynb) | ReLU, Softmax, non-linearity, loss functions, hyperparameters, parameter count |
 | 🔧 Practical 3 | *Coming Soon – Building Convolutional Neural Networks*                                      | CNN filters, convolution layers, spatial hierarchies             |
 | 🎯 Practical 4 | *Coming Soon – Object Detection with YOLO*                                                  | YOLO pipeline, bounding boxes, real-time detection               |
