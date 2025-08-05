@@ -49,3 +49,8 @@ We use the popular **Flower Classification Dataset** from Google Cloud:
    ```bash
    git clone https://github.com/your-username/computer-vision-practicals.git
    cd computer-vision-practicals
+2. Open the .ipynb notebooks using Jupyter, VSCode, or Google Colab
+3. Start with Practical 1 and progress step-by-step
+4. Modify, experiment, and learn by doing!
+
+
