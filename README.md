@@ -11,7 +11,7 @@ This repository provides clean, beginner-friendly **Jupyter notebooks** that wal
 
 Each notebook focuses on a single core concept - from building your first neural network to progressively enhancing it with modern deep learning techniques.
 
-> *"The field of machine vision is swiftly evolving"* - From traditional rule-based approaches to cutting-edge deep learning architectures
+> *"Master computer vision through progressive hands-on examples and real-world applications"* - Build your expertise step-by-step with practical notebooks and clear explanations.
 
 **By Dr. Zaid Al-Huda**
 
