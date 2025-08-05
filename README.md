@@ -5,11 +5,11 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-Latest-red.svg)](https://pytorch.org/)
 [![Status: Active](https://img.shields.io/badge/Status-Active-green.svg)]()
 
-Welcome to the **Hands-On Computer Vision Series**, a step-by-step practical guide designed to help students **learn computer vision by building models from scratch** — one notebook at a time.
+Welcome to the **Hands-On Computer Vision Series**, a step-by-step practical guide designed to help students **learn computer vision by building models from scratch** - one notebook at a time.
 
 This repository provides clean, beginner-friendly **Jupyter notebooks** that walk you through key machine learning and computer vision concepts using real datasets and visual feedback.
 
-Each notebook focuses on a single core concept — from building your first neural network to progressively enhancing it with modern deep learning techniques.
+Each notebook focuses on a single core concept - from building your first neural network to progressively enhancing it with modern deep learning techniques.
 
 > *"The field of machine vision is swiftly evolving"* - From traditional rule-based approaches to cutting-edge deep learning architectures
 
