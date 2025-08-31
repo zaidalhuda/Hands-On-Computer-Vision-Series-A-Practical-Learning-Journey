@@ -27,12 +27,12 @@ Each notebook focuses on a single core concept - from building your first neural
 
 ## 🚀 What You’ll Learn
 
-- **Hands-on Colab notebooks** — run anywhere with minimal setup  
-- **Progressive path** — foundations → modern CV → real applications  
-- **Clarity first** — concise cells, readable code, and visual feedback  
-- **End-to-end workflow** — data → training → evaluation → (optional) deployment  
-- **Modern architectures** — CNN families, ResNet/EfficientNet, ViT, YOLO, U‑Net, MOT  
-- **Cohesive sequence** — each practical prepares you for the next
+- **Hands-on Colab notebooks** - run anywhere with minimal setup  
+- **Progressive path** - foundations → modern CV → real applications  
+- **Clarity first** - concise cells, readable code, and visual feedback  
+- **End-to-end workflow** - data → training → evaluation → (optional) deployment  
+- **Modern architectures** - CNN families, ResNet/EfficientNet, ViT, YOLO, U‑Net, MOT  
+- **Cohesive sequence** - each practical prepares you for the next
 
 ---
 
@@ -43,19 +43,17 @@ No installs. No setup.
 2. In Colab: **Runtime → Change runtime type → GPU** (if available).  
 3. Run cells from top to bottom and experiment!
 
-> Replace `YOUR_GITHUB_USERNAME/YOUR_REPO_NAME` in the links with your real GitHub path to activate all Colab buttons.
-
 ---
 
 
 
-## 🗺️ Learning Roadmap — 25 Practicals
+## 🗺️ Learning Roadmap - 25 Practicals
 
 > 🚀 Click the Colab badge to run instantly (don’t forget to set GPU runtime!).
 
 | # | Practical | Open in Colab | Topics Covered |
 |---:|-----------|:-------------:|----------------|
-| 1 | Building a Simple Neural Network *(No Activation Functions)* | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/Practical_1_Building_a_Simple_Neural_Network_(No_Activation_Functions).ipynb) | Perceptron basics, forward pass, loss computation |
+| 1 | Building a Simple Neural Network *(No Activation Functions)* | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/Practical_1_Building_a_Simple_Neural_Network_(No_Activation_Functions).ipynb](https://colab.research.google.com/drive/1jkdGNJ6cDcGEuPZSF7Mdgxh1EZTphUCU?usp=drive_link) | Perceptron basics, forward pass, loss computation |
 | 2 | Enhancing with Activation Functions | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/Practical_2_Enhancing_the_Neural_Network_with_Activation_Functions.ipynb) | Non-linear activations, ReLU, Sigmoid, Tanh |
 | 3 | Overfitting Prevention | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/Practical_3_Overfitting_Prevention.ipynb) | Regularization (L2), Dropout, Early stopping |
 | 4 | Transfer Learning (Intro) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/Practical_4_Transfer_Learning.ipynb) | Pretrained models, feature extraction |
