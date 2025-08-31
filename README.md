@@ -1,121 +1,159 @@
-# 🔬 Hands-On Computer Vision Series — 25 Colab Practicals  
+<!-- Hero -->
+<h1 align="center">🔬 Hands-On Computer Vision Series — 25 Colab Practicals</h1>
+
 <p align="center">
-  <img alt="Colab" src="https://colab.research.google.com/assets/colab-badge.svg">
   <a href="LICENSE"><img alt="License" src="https://img.shields.io/badge/License-MIT-yellow.svg"></a>
   <img alt="Python" src="https://img.shields.io/badge/Python-3.8%2B-blue.svg">
+  <a href="https://pytorch.org/"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-Latest-red.svg"></a>
+  <a href="https://tensorflow.org/"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-Latest-orange.svg"></a>
   <img alt="Status" src="https://img.shields.io/badge/Status-25_Practicals-green.svg">
-  <img alt="Made with Love" src="https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-red.svg">
+  <a href="https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME">
+    <img alt="Open in Colab" src="https://colab.research.google.com/assets/colab-badge.svg">
+  </a>
 </p>
 
-<p align="center">
-  <b>Designed by Dr. Zaid Al-Huda</b> · Learn computer vision by building, testing, and visualizing — one practical at a time.
-</p>
+<!-- Your preserved welcome section -->
+Welcome to the **Hands-On Computer Vision Series**, a step-by-step practical guide designed to help students **learn computer vision by building models from scratch** - one notebook at a time.
 
-> “Learn by doing” — each notebook is a standalone, beginner-friendly lab you can run instantly on **Google Colab** with guided steps, clean code, and clear explanations.
+This repository provides clean, beginner-friendly **Jupyter notebooks** that walk you through key machine learning and computer vision concepts using real datasets and visual feedback.
+
+Each notebook focuses on a single core concept - from building your first neural network to progressively enhancing it with modern deep learning techniques.
+
+> *"Master computer vision through progressive hands-on examples and real-world applications"* - Build your expertise step-by-step with practical notebooks and clear explanations.
+
+**By Dr. Zaid Al-Huda**
 
 ---
 
-## 🌈 Why this series?
-- 📚 **A beautiful learning arc** — from the simplest neural net to modern CV (YOLO, UNet family, ViT, MOT).  
-- 🧪 **Hands-on first** — every concept is learned by implementing & experimenting.  
-- 🧭 **Beginner-friendly pacing** — short cells, plain-English notes, visual feedback.  
-- 🧱 **Real-world patterns** — training, tuning, evaluation, deployment habits done right.  
-- 🧩 **Connected journey** — each practical sets up the next, so students feel real momentum.
+## 🌟 Why Learners Love This Series
+- 🧪 **Hands-on first** — every idea comes with runnable Colab code  
+- 🧭 **Beginner-friendly** — short cells, clear comments, visual feedback  
+- 🧱 **Complete pipeline** — data → training → evaluation → deployment  
+- 🧠 **Modern architectures** — CNNs, YOLO, ViT, U-Net family, MOT  
+- 🔗 **Connected journey** — each practical sets up the next
 
 ---
 
 ## ⚡ Quick Start (Colab)
-No installs. No setup.  
-1) Click any **Colab** button below.  
-2) In Colab: **Runtime → Change runtime type → GPU** (if available).  
-3) Run cells top-to-bottom. Tweak, explore, and learn!
+No installs. No setup.
 
-> 💡 After your first GitHub push, replace `YOUR_GITHUB_USERNAME/YOUR_REPO_NAME` in the links below with your real repo path.
+1. Click any **Open in Colab** button below.  
+2. In Colab: **Runtime → Change runtime type → GPU** (if available).  
+3. Run cells from top to bottom and experiment!
+
+> Replace `YOUR_GITHUB_USERNAME/YOUR_REPO_NAME` in the links with your real GitHub path to activate all Colab buttons.
 
 ---
 
 ## 🗺️ Learning Roadmap (25 Practicals)
 
+> Click a badge to launch the notebook in **Google Colab**.
+
 ### Foundations & Good Habits
 | # | Practical | Open |
-|---|---|---|
-| 1 | Building a Simple Neural Network *(No Activation Functions)* | <a href="https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/Practical_1_Building_a_Simple_Neural_Network_(No_Activation_Functions).ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a> |
-| 2 | Enhancing the Neural Network with Activation Functions | <a href="https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/Practical_2_Enhancing_the_Neural_Network_with_Activation_Functions.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a> |
-| 3 | Overfitting Prevention (Regularization, Dropout, Early-Stop) | <a href="https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/Practical_3_Overfitting_Prevention.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a> |
-| 4 | Transfer Learning (Intro) | <a href="https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/Practical_4_Transfer_Learning.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a> |
-| 5 | Hyperparameter Tuning with Weights & Biases (W&B) | <a href="https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/Practical_5_Hyperparameter_Tuning_W%26B.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a> |
-| 6 | Evaluation Metrics (Accuracy, Precision/Recall, F1, ROC) | <a href="https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/Practical_6_Evaluation_Metrics.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a> |
+|---:|---|:--:|
+| 1 | Building a Simple Neural Network *(No Activation Functions)* | <a href="https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/Practical_1_Building_a_Simple_Neural_Network_(No_Activation_Functions).ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Colab"></a> |
+| 2 | Enhancing the Neural Network with Activation Functions | <a href="https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/Practical_2_Enhancing_the_Neural_Network_with_Activation_Functions.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Colab"></a> |
+| 3 | Overfitting Prevention (Regularization, Dropout, Early-Stop) | <a href="https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/Practical_3_Overfitting_Prevention.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Colab"></a> |
+| 4 | Transfer Learning (Intro) | <a href="https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/Practical_4_Transfer_Learning.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Colab"></a> |
+| 5 | Hyperparameter Tuning with Weights & Biases (W&B) | <a href="https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/Practical_5_Hyperparameter_Tuning_W%26B.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Colab"></a> |
+| 6 | Evaluation Metrics (Accuracy, Precision/Recall, F1, ROC) | <a href="https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/Practical_6_Evaluation_Metrics.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Colab"></a> |
 
 ### CNNs — From Classic to Efficient
 | # | Practical | Open |
-|---|---|---|
-| 7 | CNN Fundamentals & AlexNet | <a href="https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/Practical_7_CNN%20Fundamentals_%26_AlexNet.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a> |
-| 8 | Deep Dive into VGG-16 | <a href="https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/Practical_8_Deep_Dive_into_VGG-16.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a> |
-| 9 | GoogLeNet (InceptionV1) | <a href="https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/Practical_9_GoogLeNet_InceptionV1.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a> |
-| 10 | SqueezeNet & Fire Modules | <a href="https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/Practical_10_SqueezeNet_Fire_Modules.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a> |
-| 11 | ResNet — Residual Learning | <a href="https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/Practical_11_ResNet_Residual_Learning.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a> |
-| 12 | MobileNet — Depthwise Separable Convolutions | <a href="https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/Practical_12_MobileNet_Depthwise_Separable_Convolutions.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a> |
-| 13 | DenseNet — Densely Connected Networks | <a href="https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/Practical_13_DenseNet_Densely_Connected_Networks.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a> |
-| 14 | EfficientNet — Compound Scaling | <a href="https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/Practical_14_EfficientNet_Compound_Scaling.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a> |
-| 15 | Transfer Learning: Freeze vs Fine-Tune | <a href="https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/Practical_15_Transfer_Learning_Freeze_vs_FineTune.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a> |
+|---:|---|:--:|
+| 7 | CNN Fundamentals & AlexNet | <a href="https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/Practical_7_CNN%20Fundamentals_%26_AlexNet.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Colab"></a> |
+| 8 | Deep Dive into VGG-16 | <a href="https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/Practical_8_Deep_Dive_into_VGG-16.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Colab"></a> |
+| 9 | GoogLeNet (InceptionV1) | <a href="https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/Practical_9_GoogLeNet_InceptionV1.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Colab"></a> |
+| 10 | SqueezeNet & Fire Modules | <a href="https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/Practical_10_SqueezeNet_Fire_Modules.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Colab"></a> |
+| 11 | ResNet — Residual Learning | <a href="https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/Practical_11_ResNet_Residual_Learning.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Colab"></a> |
+| 12 | MobileNet — Depthwise Separable Convolutions | <a href="https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/Practical_12_MobileNet_Depthwise_Separable_Convolutions.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Colab"></a> |
+| 13 | DenseNet — Densely Connected Networks | <a href="https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/Practical_13_DenseNet_Densely_Connected_Networks.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Colab"></a> |
+| 14 | EfficientNet — Compound Scaling | <a href="https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/Practical_14_EfficientNet_Compound_Scaling.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Colab"></a> |
+| 15 | Transfer Learning: Freeze vs Fine-Tune | <a href="https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/Practical_15_Transfer_Learning_Freeze_vs_FineTune.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Colab"></a> |
 
 ### Transformers, Detection & Tracking
 | # | Practical | Open |
-|---|---|---|
-| 16 | Vision Transformers (ViT) — Flowers | <a href="https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/Practical_16_Vision_Transformers_ViT_Flowers.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a> |
-| 17 | From R-CNN to Mask-RCNN | <a href="https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/Practical_17_R-CNN_to_Mask-RCNN.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a> |
-| 18 | YOLO Object Detection (Modern Pipelines) | <a href="https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/Practical_18_YOLO_Object_Detection.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a> |
-| 19 | Classical Object Tracking & Counting (CV) | <a href="https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/Practical_19_Object_Tracking_and_Counting_Classical_CV.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a> |
-| 20 | Multi-Object Tracking: YOLOv11 + DeepSORT + ByteTrack | <a href="https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/Practical_20_MOT_YOLOv11_DeepSORT_ByteTrack.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a> |
+|---:|---|:--:|
+| 16 | Vision Transformers (ViT) — Flowers | <a href="https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/Practical_16_Vision_Transformers_ViT_Flowers.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Colab"></a> |
+| 17 | From R-CNN to Mask-RCNN | <a href="https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/Practical_17_R-CNN_to_Mask-RCNN.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Colab"></a> |
+| 18 | YOLO Object Detection (Modern Pipelines) | <a href="https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/Practical_18_YOLO_Object_Detection.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Colab"></a> |
+| 19 | Classical Object Tracking & Counting (CV) | <a href="https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/Practical_19_Object_Tracking_and_Counting_Classical_CV.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Colab"></a> |
+| 20 | Multi-Object Tracking: YOLOv11 + DeepSORT + ByteTrack | <a href="https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/Practical_20_MOT_YOLOv11_DeepSORT_ByteTrack.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Colab"></a> |
 
-### Segmentation (Classic → UNet Family → Multitask)
+### Segmentation (Classic → U-Net Family → Multitask)
 | # | Practical | Open |
-|---|---|---|
-| 21 | Classic Image Segmentation (Thresholding, Watershed, GraphCut) | <a href="https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/Practical_21_Classic_Image_Segmentation.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a> |
-| 22 | Binary Segmentation with UNet | <a href="https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/Practical_22_Binary_Segmentation_UNet.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a> |
-| 23 | Multi-Class Segmentation (UNet Variants) | <a href="https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/Practical_23_MultiClass_Segmentation.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a> |
-| 24 | UNet Family — Comparative Study (UNet++, Attention UNet, etc.) | <a href="https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/Practical_24_UNet_Family_Comparative.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a> |
-| 25 | CV Studio — Multitask Learning (Detection + Segmentation) | <a href="https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/Practical_25_CV_Studio_Multitask.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a> |
+|---:|---|:--:|
+| 21 | Classic Image Segmentation (Thresholding, Watershed) | <a href="https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/Practical_21_Classic_Image_Segmentation.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Colab"></a> |
+| 22 | Binary Segmentation with U-Net | <a href="https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/Practical_22_Binary_Segmentation_UNet.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Colab"></a> |
+| 23 | Multi-Class Segmentation (U-Net Variants) | <a href="https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/Practical_23_MultiClass_Segmentation.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Colab"></a> |
+| 24 | U-Net Family — Comparative Study (U-Net++, Attention U-Net) | <a href="https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/Practical_24_UNet_Family_Comparative.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Colab"></a> |
+| 25 | CV Studio — Multitask Learning (Detection + Segmentation) | <a href="https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/Practical_25_CV_Studio_Multitask.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Colab"></a> |
 
 ---
 
 ## 🎯 Learning Outcomes
-By finishing the 25 labs, students will:
-- Grasp **core → advanced** CV architectures & training patterns.  
-- Implement **classification, detection, tracking, segmentation, transformers** in practice.  
-- Build habits in **evaluation, tuning, and clean experimentation**.  
-- Be ready to **apply CV in research and industry**.
+- ✅ Understand core → advanced CV architectures & training patterns  
+- ✅ Implement classification, detection, tracking, segmentation, transformers  
+- ✅ Build clean experiments with solid metrics & visual diagnostics  
+- ✅ Be ready to apply CV in research and industry
 
 ---
 
-## ✅ Progress Tracker
-- [ ] Foundations (1–6)  
-- [ ] CNNs (7–15)  
-- [ ] Transformers & Detection (16–20)  
-- [ ] Segmentation & Multitask (21–25)
+## 🛠️ Prerequisites
+- **Programming**: Basic Python  
+- **Math**: Intro linear algebra & calculus  
+- **ML**: Basics helpful (optional)  
+- **Hardware**: Colab GPU recommended
 
 ---
 
-## 🧑‍🏫 For Instructors
-- Each notebook contains: **setup cell**, **learning goals**, **guided steps**, **checkpoints**, and **“Try This”** extensions.  
-- Designed for **beginner undergraduates**, assuming only basic Python.  
-- Works entirely on **Google Colab** (GPU recommended).
+## 📖 Citations & References
 
----
+If you use this series in your research or work, please cite:
 
-## 📚 Inspirations & Credits
-- Structuring influenced by best practices in teaching ML/CV.  
-- Thanks to open-source communities around **PyTorch**, **TensorFlow**, and modern CV libraries.  
+```bibtex
+@misc{computer_vision_from_scratch_2025,
+  title={Computer Vision from Scratch: Foundations and Practicals},
+  author={Dr. Zaid Al-Huda},
+  year={2025},
+  publisher={GitHub},
+  url={https://github.com/your-username/computer-vision-from-scratch}
+}
+```
 
-> **Course design:** *Dr. Zaid Al-Huda*  
-> If you use this material, please credit: **“Designed by Dr. Zaid Al-Huda.”**
+### Key References:
+
+- **"Practical Machine Learning for Computer Vision"** - Foundational reference for this series ([GitHub](https://github.com/your-username/practical-ml-computer-vision))
+- LeCun, Y., et al. "Deep learning." Nature 521.7553 (2015): 436-444.
+- Krizhevsky, A., et al. "ImageNet classification with deep convolutional neural networks." Communications of the ACM 60.6 (2017): 84-90.
+- Dosovitskiy, A., et al. "An image is worth 16x16 words: Transformers for image recognition at scale." arXiv preprint arXiv:2010.11929 (2020).
 
 ---
 
 ## 📄 License
-This project is released under the **MIT License** — see [LICENSE](LICENSE).
+
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
+### License Summary
+
+- ✅ **Commercial use** - Use in commercial projects
+- ✅ **Modification** - Modify and adapt the content
+- ✅ **Distribution** - Share and redistribute
+- ✅ **Private use** - Use for personal learning
+- ⚠️ **Attribution required** - Credit the original course
 
 ---
 
-## 🌟 Star & Share
-If this helps you or your students, please **⭐ star** the repo and share it with classmates and colleagues!
+## 🌟 Ready to Start Your Computer Vision Journey?
+
+📁 [Browse All Practicals](./notebooks/) | 🚀 [Get Started](#-getting-started) | 📈 [Track Progress](#-progress-tracking)
+
+---
+
+**⭐ Star this repository if you find it helpful!**
+
+*Let's build the future of computer vision together.*
+
+**Made with ❤️ by Dr. Zaid Al-Huda**
+
