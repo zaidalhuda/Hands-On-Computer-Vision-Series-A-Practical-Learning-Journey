@@ -92,6 +92,38 @@ No installs. No setup.
 
 ---
 
+
+## 📊 Full Practical Index (1–25)
+
+| # | Practical | Colab Link | Topics Covered |
+|---:|-----------|------------|----------------|
+| 1 | Building a Simple Neural Network *(No Activation Functions)* | [Open](https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/Practical_1_Building_a_Simple_Neural_Network_(No_Activation_Functions).ipynb) | Neural network basics, forward pass |
+| 2 | Enhancing the Neural Network with Activation Functions | [Open](https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/Practical_2_Enhancing_the_Neural_Network_with_Activation_Functions.ipynb) | Sigmoid, ReLU, Tanh |
+| 3 | Overfitting Prevention (Regularization, Dropout, Early-Stop) | [Open](https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/Practical_3_Overfitting_Prevention.ipynb) | Regularization, Dropout, Early stopping |
+| 4 | Transfer Learning (Intro) | [Open](https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/Practical_4_Transfer_Learning.ipynb) | Feature reuse, fine-tuning |
+| 5 | Hyperparameter Tuning with Weights & Biases (W&B) | [Open](https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/Practical_5_Hyperparameter_Tuning_W%26B.ipynb) | Experiment tracking, parameter search |
+| 6 | Evaluation Metrics (Accuracy, Precision/Recall, F1, ROC) | [Open](https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/Practical_6_Evaluation_Metrics.ipynb) | Accuracy, Precision, Recall, ROC |
+| 7 | CNN Fundamentals & AlexNet | [Open](https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/Practical_7_CNN%20Fundamentals_%26_AlexNet.ipynb) | CNN layers, AlexNet |
+| 8 | Deep Dive into VGG-16 | [Open](https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/Practical_8_Deep_Dive_into_VGG-16.ipynb) | VGG architecture, deep CNNs |
+| 9 | GoogLeNet (InceptionV1) | [Open](https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/Practical_9_GoogLeNet_InceptionV1.ipynb) | Inception modules, multi-branch CNN |
+| 10 | SqueezeNet & Fire Modules | [Open](https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/Practical_10_SqueezeNet_Fire_Modules.ipynb) | Lightweight CNNs |
+| 11 | ResNet — Residual Learning | [Open](https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/Practical_11_ResNet_Residual_Learning.ipynb) | Skip connections, vanishing gradients |
+| 12 | MobileNet — Depthwise Separable Convolutions | [Open](https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/Practical_12_MobileNet_Depthwise_Separable_Convolutions.ipynb) | Efficient CNNs, separable convolutions |
+| 13 | DenseNet — Densely Connected Networks | [Open](https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/Practical_13_DenseNet_Densely_Connected_Networks.ipynb) | Dense connectivity, feature reuse |
+| 14 | EfficientNet — Compound Scaling | [Open](https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/Practical_14_EfficientNet_Compound_Scaling.ipynb) | Scaling rules, efficiency |
+| 15 | Transfer Learning: Freeze vs Fine-Tune | [Open](https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/Practical_15_Transfer_Learning_Freeze_vs_FineTune.ipynb) | Fine-tuning strategies |
+| 16 | Vision Transformers (ViT) — Flowers | [Open](https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/Practical_16_Vision_Transformers_ViT_Flowers.ipynb) | Transformers, patch embeddings |
+| 17 | From R-CNN to Mask-RCNN | [Open](https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/Practical_17_R-CNN_to_Mask-RCNN.ipynb) | Object detection, instance segm. |
+| 18 | YOLO Object Detection (Modern Pipelines) | [Open](https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/Practical_18_YOLO_Object_Detection.ipynb) | Real-time detection, training |
+| 19 | Classical Object Tracking & Counting (CV) | [Open](https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/Practical_19_Object_Tracking_and_Counting_Classical_CV.ipynb) | Optical flow, contour/centroid tracking |
+| 20 | Multi-Object Tracking: YOLOv11 + DeepSORT + ByteTrack | [Open](https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/Practical_20_MOT_YOLOv11_DeepSORT_ByteTrack.ipynb) | Detection-to-tracking pipelines |
+| 21 | Classic Image Segmentation (Thresholding, Watershed) | [Open](https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/Practical_21_Classic_Image_Segmentation.ipynb) | Thresholding, Watershed |
+| 22 | Binary Segmentation with U-Net | [Open](https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/Practical_22_Binary_Segmentation_UNet.ipynb) | U-Net, medical segmentation |
+| 23 | Multi-Class Segmentation (U-Net Variants) | [Open](https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/Practical_23_MultiClass_Segmentation.ipynb) | Multi-class masks, metrics |
+| 24 | U-Net Family — Comparative Study (U-Net++, Attention U-Net) | [Open](https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/Practical_24_UNet_Family_Comparative.ipynb) | U-Net++, Attention U-Net |
+| 25 | CV Studio — Multitask Learning (Detection + Segmentation) | [Open](https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/Practical_25_CV_Studio_Multitask.ipynb) | Multitask: detection+segmentation |
+
+
 ## 🎯 Learning Outcomes
 - ✅ Understand core → advanced CV architectures & training patterns  
 - ✅ Implement classification, detection, tracking, segmentation, transformers  
