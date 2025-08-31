@@ -25,12 +25,14 @@ Each notebook focuses on a single core concept - from building your first neural
 
 ---
 
-## 🌟 Why Learners Love This Series
-- 🧪 **Hands-on first** — every idea comes with runnable Colab code  
-- 🧭 **Beginner-friendly** — short cells, clear comments, visual feedback  
-- 🧱 **Complete pipeline** — data → training → evaluation → deployment  
-- 🧠 **Modern architectures** — CNNs, YOLO, ViT, U-Net family, MOT  
-- 🔗 **Connected journey** — each practical sets up the next
+## 🚀 What You’ll Learn
+
+- **Hands-on Colab notebooks** — run anywhere with minimal setup  
+- **Progressive path** — foundations → modern CV → real applications  
+- **Clarity first** — concise cells, readable code, and visual feedback  
+- **End-to-end workflow** — data → training → evaluation → (optional) deployment  
+- **Modern architectures** — CNN families, ResNet/EfficientNet, ViT, YOLO, U‑Net, MOT  
+- **Cohesive sequence** — each practical prepares you for the next
 
 ---
 
