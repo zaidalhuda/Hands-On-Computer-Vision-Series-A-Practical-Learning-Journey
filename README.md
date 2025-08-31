@@ -1,160 +1,121 @@
-# 🔬 Hands-On Computer Vision Series: A Practical Learning Journey
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-Latest-orange.svg)](https://tensorflow.org/)
-[![PyTorch](https://img.shields.io/badge/PyTorch-Latest-red.svg)](https://pytorch.org/)
-[![Status: Active](https://img.shields.io/badge/Status-Active-green.svg)]()
+# 🔬 Hands-On Computer Vision Series — 25 Colab Practicals  
+<p align="center">
+  <img alt="Colab" src="https://colab.research.google.com/assets/colab-badge.svg">
+  <a href="LICENSE"><img alt="License" src="https://img.shields.io/badge/License-MIT-yellow.svg"></a>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3.8%2B-blue.svg">
+  <img alt="Status" src="https://img.shields.io/badge/Status-25_Practicals-green.svg">
+  <img alt="Made with Love" src="https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-red.svg">
+</p>
 
-Welcome to the **Hands-On Computer Vision Series**, a step-by-step practical guide designed to help students **learn computer vision by building models from scratch** - one notebook at a time.
+<p align="center">
+  <b>Designed by Dr. Zaid Al-Huda</b> · Learn computer vision by building, testing, and visualizing — one practical at a time.
+</p>
 
-This repository provides clean, beginner-friendly **Jupyter notebooks** that walk you through key machine learning and computer vision concepts using real datasets and visual feedback.
-
-Each notebook focuses on a single core concept - from building your first neural network to progressively enhancing it with modern deep learning techniques.
-
-> *"Master computer vision through progressive hands-on examples and real-world applications"* - Build your expertise step-by-step with practical notebooks and clear explanations.
-
-**By Dr. Zaid Al-Huda**
+> “Learn by doing” — each notebook is a standalone, beginner-friendly lab you can run instantly on **Google Colab** with guided steps, clean code, and clear explanations.
 
 ---
 
-## 🎯 What Makes This Series Special?
-
-- **🚀 Hands-on Evolution Journey**: Witness the transformation from rule-based to ML-based computer vision
-- **🛠️ Production-Ready Skills**: Learn not just theory, but practical deployment and optimization
-- **🔄 Complete Pipeline**: From data collection to model serving in production
-- **🏗️ Modern Architectures**: Cover everything from CNNs to Vision Transformers
-- **🎨 Real Applications**: Object detection, segmentation, generative models, and more
-
-**This series is based on the foundational concepts from ["Practical Machine Learning for Computer Vision"](https://www.amazon.com/Practical-Machine-Learning-Computer-Vision/dp/1098102363) book ([GitHub Repository](https://github.com/GoogleCloudPlatform/practical-ml-vision-book)), enhanced with hands-on implementations and modern deep learning techniques.**
+## 🌈 Why this series?
+- 📚 **A beautiful learning arc** — from the simplest neural net to modern CV (YOLO, UNet family, ViT, MOT).  
+- 🧪 **Hands-on first** — every concept is learned by implementing & experimenting.  
+- 🧭 **Beginner-friendly pacing** — short cells, plain-English notes, visual feedback.  
+- 🧱 **Real-world patterns** — training, tuning, evaluation, deployment habits done right.  
+- 🧩 **Connected journey** — each practical sets up the next, so students feel real momentum.
 
 ---
 
-## 📚 Series Structure
+## ⚡ Quick Start (Colab)
+No installs. No setup.  
+1) Click any **Colab** button below.  
+2) In Colab: **Runtime → Change runtime type → GPU** (if available).  
+3) Run cells top-to-bottom. Tweak, explore, and learn!
 
-The series is designed as a **progressive hands-on journey** that builds from basic neural networks to advanced computer vision applications through practical examples and real-world projects.
+> 💡 After your first GitHub push, replace `YOUR_GITHUB_USERNAME/YOUR_REPO_NAME` in the links below with your real repo path.
 
 ---
 
-## 🧪 Practical Notebooks
+## 🗺️ Learning Roadmap (25 Practicals)
 
-| Practical | Notebook | Topics Covered |
-|-----------|----------|----------------|
-| 🧪 Practical 1 | [Building a Simple Neural Network (No Activation Functions)](./notebooks/Practical_1_Building_a_Simple_Neural_Network_(No_Activation_Functions).ipynb) | Linear layers, image classification basics, weight learning |
-| 🔥 Practical 2 | [Enhancing the Neural Network with Activation Functions](./notebooks/Practical_2_Enhancing_the_Neural_Network_with_Activation_Functions.ipynb) | ReLU, Softmax, non-linearity, loss functions, hyperparameters, parameter count |
-| 🔧 Practical 3 | *Coming Soon – Building Convolutional Neural Networks*                                      | CNN filters, convolution layers, spatial hierarchies             |
-| 🎯 Practical 4 | *Coming Soon – Object Detection with YOLO*                                                  | YOLO pipeline, bounding boxes, real-time detection               |
-| 🩺 Practical 5 | *Coming Soon – Image Segmentation for Medical Images*                                       | U-Net, mask generation, pixel-level segmentation                 |
-| 🔄 Practical 6 | *Coming Soon – Transfer Learning with Pre-trained Models*                                   | Fine-tuning, feature reuse, adapting models                      |
-| 📊 Practical 7 | *Coming Soon – Data Augmentation & Preprocessing*                                           | Image transformations, normalization, augmentation pipelines     |
-| 🧵 Practical 8 | *Coming Soon – Custom Training Loops & Optimization*                                        | Training from scratch, learning rate scheduling, optimizer tweaks|
-| ✅ Practical 9 | *Coming Soon – Model Evaluation & Performance Metrics*                                      | Accuracy, confusion matrix, recall/precision/F1                  |
-| 🚀 Practical 10 | *Coming Soon – Deploying Computer Vision Models*                                           | Model serving, inference speed, export to production             |
-| 🔍 Practical 11 | *Coming Soon – Vision Transformers for Image Classification*                               | ViT, attention mechanisms, transformer models                    |
-| 🎨 Practical 12 | *Coming Soon – Generative Models: Creating Art with GANs*                                  | GANs, image synthesis, creative vision applications              |
+### Foundations & Good Habits
+| # | Practical | Open |
+|---|---|---|
+| 1 | Building a Simple Neural Network *(No Activation Functions)* | <a href="https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/Practical_1_Building_a_Simple_Neural_Network_(No_Activation_Functions).ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a> |
+| 2 | Enhancing the Neural Network with Activation Functions | <a href="https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/Practical_2_Enhancing_the_Neural_Network_with_Activation_Functions.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a> |
+| 3 | Overfitting Prevention (Regularization, Dropout, Early-Stop) | <a href="https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/Practical_3_Overfitting_Prevention.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a> |
+| 4 | Transfer Learning (Intro) | <a href="https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/Practical_4_Transfer_Learning.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a> |
+| 5 | Hyperparameter Tuning with Weights & Biases (W&B) | <a href="https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/Practical_5_Hyperparameter_Tuning_W%26B.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a> |
+| 6 | Evaluation Metrics (Accuracy, Precision/Recall, F1, ROC) | <a href="https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/Practical_6_Evaluation_Metrics.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a> |
+
+### CNNs — From Classic to Efficient
+| # | Practical | Open |
+|---|---|---|
+| 7 | CNN Fundamentals & AlexNet | <a href="https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/Practical_7_CNN%20Fundamentals_%26_AlexNet.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a> |
+| 8 | Deep Dive into VGG-16 | <a href="https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/Practical_8_Deep_Dive_into_VGG-16.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a> |
+| 9 | GoogLeNet (InceptionV1) | <a href="https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/Practical_9_GoogLeNet_InceptionV1.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a> |
+| 10 | SqueezeNet & Fire Modules | <a href="https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/Practical_10_SqueezeNet_Fire_Modules.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a> |
+| 11 | ResNet — Residual Learning | <a href="https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/Practical_11_ResNet_Residual_Learning.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a> |
+| 12 | MobileNet — Depthwise Separable Convolutions | <a href="https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/Practical_12_MobileNet_Depthwise_Separable_Convolutions.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a> |
+| 13 | DenseNet — Densely Connected Networks | <a href="https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/Practical_13_DenseNet_Densely_Connected_Networks.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a> |
+| 14 | EfficientNet — Compound Scaling | <a href="https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/Practical_14_EfficientNet_Compound_Scaling.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a> |
+| 15 | Transfer Learning: Freeze vs Fine-Tune | <a href="https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/Practical_15_Transfer_Learning_Freeze_vs_FineTune.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a> |
+
+### Transformers, Detection & Tracking
+| # | Practical | Open |
+|---|---|---|
+| 16 | Vision Transformers (ViT) — Flowers | <a href="https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/Practical_16_Vision_Transformers_ViT_Flowers.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a> |
+| 17 | From R-CNN to Mask-RCNN | <a href="https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/Practical_17_R-CNN_to_Mask-RCNN.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a> |
+| 18 | YOLO Object Detection (Modern Pipelines) | <a href="https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/Practical_18_YOLO_Object_Detection.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a> |
+| 19 | Classical Object Tracking & Counting (CV) | <a href="https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/Practical_19_Object_Tracking_and_Counting_Classical_CV.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a> |
+| 20 | Multi-Object Tracking: YOLOv11 + DeepSORT + ByteTrack | <a href="https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/Practical_20_MOT_YOLOv11_DeepSORT_ByteTrack.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a> |
+
+### Segmentation (Classic → UNet Family → Multitask)
+| # | Practical | Open |
+|---|---|---|
+| 21 | Classic Image Segmentation (Thresholding, Watershed, GraphCut) | <a href="https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/Practical_21_Classic_Image_Segmentation.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a> |
+| 22 | Binary Segmentation with UNet | <a href="https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/Practical_22_Binary_Segmentation_UNet.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a> |
+| 23 | Multi-Class Segmentation (UNet Variants) | <a href="https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/Practical_23_MultiClass_Segmentation.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a> |
+| 24 | UNet Family — Comparative Study (UNet++, Attention UNet, etc.) | <a href="https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/Practical_24_UNet_Family_Comparative.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a> |
+| 25 | CV Studio — Multitask Learning (Detection + Segmentation) | <a href="https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/blob/main/Practical_25_CV_Studio_Multitask.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a> |
+
 ---
 
 ## 🎯 Learning Outcomes
-
-By completing this series, you will:
-
-- ✅ **Master the fundamentals** of computer vision and deep learning
-- ✅ **Build production-ready CV models** from scratch
-- ✅ **Deploy models** to cloud, mobile, and edge devices
-- ✅ **Handle real-world challenges** like bias, data quality, and scaling
-- ✅ **Stay current** with latest architectures like Vision Transformers
-- ✅ **Apply CV** to diverse domains: detection, segmentation, generation
+By finishing the 25 labs, students will:
+- Grasp **core → advanced** CV architectures & training patterns.  
+- Implement **classification, detection, tracking, segmentation, transformers** in practice.  
+- Build habits in **evaluation, tuning, and clean experimentation**.  
+- Be ready to **apply CV in research and industry**.
 
 ---
 
-## 🛠️ Prerequisites
-
-- **Programming**: Intermediate Python knowledge
-- **Mathematics**: Basic linear algebra and calculus
-- **Machine Learning**: Understanding of basic ML concepts (optional but helpful)
-- **Hardware**: GPU access recommended for practical exercises
-
----
-
-## 🚀 Getting Started
-
-### 1. Clone the repository
-```bash
-git clone https://github.com/zaidalhuda/Hands-On-Computer-Vision-Series-A-Practical-Learning-Journey.git
-cd computer-vision-hands-on
-```
-
-
-### 2. Start with Practical 1
-```bash
-jupyter notebook notebooks/
-```
+## ✅ Progress Tracker
+- [ ] Foundations (1–6)  
+- [ ] CNNs (7–15)  
+- [ ] Transformers & Detection (16–20)  
+- [ ] Segmentation & Multitask (21–25)
 
 ---
 
-## 📈 Progress Tracking
-
-Track your learning progress through the series:
-
-- [ ] **Practical 1**: Flower Classification with Simple Neural Network
-- [ ] **Practical 2**: Flower Classification with Activation Functions  
-- [ ] **Practical 3**: Building Convolutional Neural Networks
-- [ ] **Practical 4**: Object Detection with YOLO
-- [ ] **Practical 5**: Image Segmentation for Medical Images
-- [ ] **Practical 6**: Transfer Learning with Pre-trained Models
-- [ ] **Practical 7**: Data Augmentation and Preprocessing
-- [ ] **Practical 8**: Custom Training Loops and Optimization
-- [ ] **Practical 9**: Model Evaluation and Performance Metrics
-- [ ] **Practical 10**: Deploying Computer Vision Models
-- [ ] **Practical 11**: Vision Transformers for Image Classification
-- [ ] **Practical 12**: Generative Models: Creating Art with GANs
+## 🧑‍🏫 For Instructors
+- Each notebook contains: **setup cell**, **learning goals**, **guided steps**, **checkpoints**, and **“Try This”** extensions.  
+- Designed for **beginner undergraduates**, assuming only basic Python.  
+- Works entirely on **Google Colab** (GPU recommended).
 
 ---
 
-## 📖 Citations & References
+## 📚 Inspirations & Credits
+- Structuring influenced by best practices in teaching ML/CV.  
+- Thanks to open-source communities around **PyTorch**, **TensorFlow**, and modern CV libraries.  
 
-If you use this series in your research or work, please cite:
-
-```bibtex
-@misc{computer_vision_from_scratch_2025,
-  title={Computer Vision from Scratch: Foundations and Practicals},
-  author={Dr. Zaid Al-Huda},
-  year={2025},
-  publisher={GitHub},
-  url={https://github.com/your-username/computer-vision-from-scratch}
-}
-```
-
-### Key References:
-
-- **"Practical Machine Learning for Computer Vision"** - Foundational reference for this series ([GitHub](https://github.com/your-username/practical-ml-computer-vision))
-- LeCun, Y., et al. "Deep learning." Nature 521.7553 (2015): 436-444.
-- Krizhevsky, A., et al. "ImageNet classification with deep convolutional neural networks." Communications of the ACM 60.6 (2017): 84-90.
-- Dosovitskiy, A., et al. "An image is worth 16x16 words: Transformers for image recognition at scale." arXiv preprint arXiv:2010.11929 (2020).
+> **Course design:** *Dr. Zaid Al-Huda*  
+> If you use this material, please credit: **“Designed by Dr. Zaid Al-Huda.”**
 
 ---
 
 ## 📄 License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
-### License Summary
-
-- ✅ **Commercial use** - Use in commercial projects
-- ✅ **Modification** - Modify and adapt the content
-- ✅ **Distribution** - Share and redistribute
-- ✅ **Private use** - Use for personal learning
-- ⚠️ **Attribution required** - Credit the original course
+This project is released under the **MIT License** — see [LICENSE](LICENSE).
 
 ---
 
-## 🌟 Ready to Start Your Computer Vision Journey?
-
-📁 [Browse All Practicals](./notebooks/) | 🚀 [Get Started](#-getting-started) | 📈 [Track Progress](#-progress-tracking)
-
----
-
-**⭐ Star this repository if you find it helpful!**
-
-*Let's build the future of computer vision together.*
-
-**Made with ❤️ by Dr. Zaid Al-Huda**
+## 🌟 Star & Share
+If this helps you or your students, please **⭐ star** the repo and share it with classmates and colleagues!
