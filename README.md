@@ -135,7 +135,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ## 🌟 Ready to Start Your Computer Vision Journey?
 
-📁 [Browse All Practicals](./notebooks/) | 🚀 [Get Started](#-getting-started) | 📈 [Track Progress](#-progress-tracking)
+📁 [Browse All Practicals](./notebooks/)
 
 ---
 
