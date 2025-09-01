@@ -112,7 +112,7 @@ If you use this series in your research or work, please cite:
 
 ### Key References:
 
-- **"Practical Machine Learning for Computer Vision"** - Foundational reference for this series ([GitHub](https://github.com/your-username/practical-ml-computer-vision))
+- **"Practical Machine Learning for Computer Vision"** - Foundational reference for this series ([Link](https://www.amazon.co.uk/Practical-Machine-Learning-Computer-Vision/dp/1098102363))
 - LeCun, Y., et al. "Deep learning." Nature 521.7553 (2015): 436-444.
 - Krizhevsky, A., et al. "ImageNet classification with deep convolutional neural networks." Communications of the ACM 60.6 (2017): 84-90.
 - Dosovitskiy, A., et al. "An image is worth 16x16 words: Transformers for image recognition at scale." arXiv preprint arXiv:2010.11929 (2020).
