@@ -101,12 +101,12 @@ No installs. No setup.
 If you use this series in your research or work, please cite:
 
 ```bibtex
-@misc{computer_vision_from_scratch_2025,
-  title={Computer Vision from Scratch: Foundations and Practicals},
+@misc{computer_vision_series_2025,
+  title={Hands-On Computer Vision Series - A Practical Learning Journey},
   author={Dr. Zaid Al-Huda},
   year={2025},
   publisher={GitHub},
-  url={https://github.com/your-username/computer-vision-from-scratch}
+  url={https://github.com/zaidalhuda/Hands-On-Computer-Vision-Series-A-Practical-Learning-Journey}
 }
 ```
 
@@ -122,14 +122,6 @@ If you use this series in your research or work, please cite:
 ## 📄 License
 
 This project is licensed under the **MIT License**.
-
-### License Summary
-
-- ✅ **Commercial use** - Use in commercial projects
-- ✅ **Modification** - Modify and adapt the content
-- ✅ **Distribution** - Share and redistribute
-- ✅ **Private use** - Use for personal learning
-- ⚠️ **Attribution required** - Credit the original course
 
 ---
 
