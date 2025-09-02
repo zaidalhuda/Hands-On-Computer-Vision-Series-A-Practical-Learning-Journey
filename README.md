@@ -53,7 +53,7 @@ No installs. No setup.
 
 | # | Practical | Open in Colab | Topics Covered |
 |---:|-----------|:-------------:|----------------|
-| 1 | Building a Simple Neural Network *(No Activation Functions)* | <a href="https://colab.research.google.com/drive/1jkdGNJ6cDcGEuPZSF7Mdgxh1EZTphUCU?usp=drive_link"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab" height="50"></a>| Perceptron basics, forward pass, loss computation |
+| 1 | Building a Simple Neural Network *(No Activation Functions)* | <a href="https://colab.research.google.com/drive/1jkdGNJ6cDcGEuPZSF7Mdgxh1EZTphUCU?usp=drive_link"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab" height="50" width="30"></a>| Perceptron basics, forward pass, loss computation |
 | 2 | Enhancing the Neural Network with Activation Functions | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Wotdb8Z_a8MRugs6iCDfmGO6eMqj6mhV?usp=drive_link) | Non-linear activations, ReLU, Sigmoid, Tanh |
 | 3 | Overfit Prevention (Regularization, Dropout, Early Stopping, Batch Normalization) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1YsxCPgjMnWtJGJSGeVDsnkWNG1vaOv7R?usp=drive_link) | Regularization (L2), Dropout, Early stopping |
 | 4 | Transfer Learning (Pretrained Embeddings, Fine‑Tuning, Differential LR) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/14qZ3fKJH1GUv_UqzNgO9_wwpjB4o3grp?usp=drive_link) | Pretrained models, feature extraction |
