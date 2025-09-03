@@ -13,7 +13,7 @@
 </p>
 
 <!-- Your preserved welcome section -->
-Welcome to the **Hands-On Computer Vision Series**, a step-by-step practical guide designed to help students **learn computer vision by building models from scratch** - one notebook at a time.
+Welcome to the **Hands-On Computer Vision Series** for our students at **Stirling College, Chengdu University**, a step-by-step practical guide designed to help students **learn computer vision by building models from scratch** - one notebook at a time.
 
 This repository provides clean, beginner-friendly **Jupyter notebooks** that walk you through key machine learning and computer vision concepts using real datasets and visual feedback.
 
