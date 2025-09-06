@@ -14,7 +14,7 @@
 </p>
 
 <!-- Enhanced welcome section -->
-Welcome to the **Hands-On Computer Vision Series** from **Stirling College, Chengdu University** - a comprehensive, **undergraduate-friendly** guide that teaches computer vision through practical hands-on learning.
+Welcome to the **Hands-On Computer Vision Series** from **Stirling College, Chengdu University** - a comprehensive, **undergraduate** guide that teaches computer vision through practical hands-on learning.
 
 🎓 **Perfect for Undergraduates & Beginners**: These practicals are specifically designed for students who are just starting to learn computer vision. Each practical provides clear explanations and step-by-step guidance. The difficulty gradually increases, building your expertise from basic concepts to advanced applications.
 
