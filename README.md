@@ -32,23 +32,23 @@ Each notebook focuses on a single core concept - from building your first neural
 
 Before diving into the practicals, let's understand what Computer Vision really involves. In CV, we primarily work with **three fundamental tasks** that form the backbone of most applications:
 
-### 🔍 **1. Detection**
+### **1. Detection**
 - **Image Classification**: Teaching models to classify images (cat vs dog, etc.)
 - **Object Detection**: Locating objects in images and drawing bounding boxes around them
 - **Applications**: Counting objects, direction detection, shelf monitoring, traffic analysis
 
-### 🎨 **2. Segmentation** 
+### **2. Segmentation** 
 - **Semantic Segmentation**: Identifying which pixels belong to which object class
 - **Instance Segmentation**: Separating individual object instances
 - **Panoptic Segmentation**: Combining both semantic and instance segmentation
 - **Applications**: Smart photo editing, background removal, medical imaging (tumor detection), autonomous driving
 
-### 🎯 **3. Tracking**
+### **3. Tracking**
 - **Multi-Object Tracking**: Following objects across video frames
 - **Challenges**: Re-identification after occlusion, handling appearance changes
 - **Applications**: Surveillance, sports analysis, autonomous vehicles
 
-### 🚀 **Advanced Applications**
+### **Advanced Applications**
 Built upon these foundations:
 - **Image Generation** (GANs, Stable Diffusion)
 - **Image Captioning** 
