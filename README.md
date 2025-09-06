@@ -14,9 +14,9 @@
 </p>
 
 <!-- Enhanced welcome section -->
-Welcome to the **Hands-On Computer Vision Series** for our students at **Stirling College, Chengdu University** - a comprehensive, **undergraduate-friendly** practical guide designed to help students **learn computer vision by building models from scratch**.
+Welcome to the **Hands-On Computer Vision Series** from **Stirling College, Chengdu University** - a comprehensive, **undergraduate-friendly** guide that teaches computer vision through practical hands-on learning.
 
-🎓 **Perfect for Undergraduates & Beginners**: These practicals are specifically designed with undergraduate students in mind, providing clear explanations, step-by-step guidance, and progressive difficulty that builds your expertise from fundamentals to advanced applications.
+🎓 **Perfect for Undergraduates & Beginners**: These practicals are specifically designed for students who are just starting to learn computer vision. Each practical provides clear explanations and step-by-step guidance. The difficulty gradually increases, building your expertise from basic concepts to advanced applications.
 
 This repository provides clean, beginner-friendly **Jupyter notebooks** that walk you through key machine learning and computer vision concepts using real datasets and visual feedback. Whether you're working on your graduation project or just starting your CV journey, these practicals will give you solid foundations.
 
