@@ -197,11 +197,6 @@ If you use this series in your research or work, please cite:
 - Krizhevsky, A., et al. "ImageNet classification with deep convolutional neural networks." Communications of the ACM 60.6 (2017): 84-90.
 - Dosovitskiy, A., et al. "An image is worth 16x16 words: Transformers for image recognition at scale." arXiv preprint arXiv:2010.11929 (2020).
 
----
-
-## 📄 License
-
-This project is licensed under the **MIT License**.
 
 ---
 
