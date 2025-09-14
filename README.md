@@ -15,6 +15,7 @@
 
 <!-- Enhanced welcome section -->
 Welcome to the **Hands-On Computer Vision Series** - a comprehensive, **beginner** guide with practicals designed for our students that teaches computer vision through practical hands-on learning.
+
 🎓 **Perfect for Beginners**: These practicals are specifically designed for students who are just starting to learn computer vision. Each practical provides clear explanations and step-by-step guidance. The difficulty gradually increases, building your expertise from basic concepts to advanced applications.
 
 This repository provides clean, beginner-friendly **Jupyter notebooks** that walk you through key machine learning and computer vision concepts using real datasets and visual feedback. Whether you're working on your graduation project or just starting your CV journey, these practicals will give you solid foundations.
