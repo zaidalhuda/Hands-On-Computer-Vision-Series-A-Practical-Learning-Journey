@@ -15,8 +15,6 @@
 
 <!-- Enhanced welcome section -->
 Welcome to the **Hands-On Computer Vision Series** from **Stirling College, Chengdu University** - a comprehensive, **undergraduate** guide with practicals designed for our students that teaches computer vision through practical hands-on learning.
-**By Dr. Zaid Al-Huda**
-📧 Contact: [zaid@stir.cdu.edu.cn](mailto:zaid@stir.cdu.edu.cn) | [zh6@stir.ac.uk](mailto:zh6@stir.ac.uk) | [zaidalhuda@swjtu.edu.cn](mailto:zaidalhuda@swjtu.edu.cn)
 🎓 **Perfect for Undergraduates & Beginners**: These practicals are specifically designed for students who are just starting to learn computer vision. Each practical provides clear explanations and step-by-step guidance. The difficulty gradually increases, building your expertise from basic concepts to advanced applications.
 
 This repository provides clean, beginner-friendly **Jupyter notebooks** that walk you through key machine learning and computer vision concepts using real datasets and visual feedback. Whether you're working on your graduation project or just starting your CV journey, these practicals will give you solid foundations.
@@ -25,6 +23,8 @@ Each notebook focuses on a single core concept - from building your first neural
 
 > *"Master computer vision through progressive hands-on examples and real-world applications"* - Build your expertise step-by-step with practical notebooks and clear explanations.
 
+**By Dr. Zaid Al-Huda**
+📧 Contact: [zaid@stir.cdu.edu.cn](mailto:zaid@stir.cdu.edu.cn) | [zh6@stir.ac.uk](mailto:zh6@stir.ac.uk) | [zaidalhuda@swjtu.edu.cn](mailto:zaidalhuda@swjtu.edu.cn)
 
 ---
 
