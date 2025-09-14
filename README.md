@@ -7,15 +7,15 @@
   <a href="https://pytorch.org/"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-Latest-red.svg"></a>
   <a href="https://tensorflow.org/"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-Latest-orange.svg"></a>
   <img alt="Status" src="https://img.shields.io/badge/Status-25_Practicals-green.svg">
-  <img alt="Level" src="https://img.shields.io/badge/Level-Undergraduate_Friendly-brightgreen.svg">
+  <img alt="Level" src="https://img.shields.io/badge/Level-Beginner_Friendly-brightgreen.svg">
   <a href="https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME">
     <img alt="Open in Colab" src="https://colab.research.google.com/assets/colab-badge.svg">
   </a>
 </p>
 
 <!-- Enhanced welcome section -->
-Welcome to the **Hands-On Computer Vision Series** from **Stirling College, Chengdu University** - a comprehensive, **undergraduate** guide with practicals designed for our students that teaches computer vision through practical hands-on learning.
-🎓 **Perfect for Undergraduates & Beginners**: These practicals are specifically designed for students who are just starting to learn computer vision. Each practical provides clear explanations and step-by-step guidance. The difficulty gradually increases, building your expertise from basic concepts to advanced applications.
+Welcome to the **Hands-On Computer Vision Series** - a comprehensive, **beginner** guide with practicals designed for our students that teaches computer vision through practical hands-on learning.
+🎓 **Perfect for Beginners**: These practicals are specifically designed for students who are just starting to learn computer vision. Each practical provides clear explanations and step-by-step guidance. The difficulty gradually increases, building your expertise from basic concepts to advanced applications.
 
 This repository provides clean, beginner-friendly **Jupyter notebooks** that walk you through key machine learning and computer vision concepts using real datasets and visual feedback. Whether you're working on your graduation project or just starting your CV journey, these practicals will give you solid foundations.
 
