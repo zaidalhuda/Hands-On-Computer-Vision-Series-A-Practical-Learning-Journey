@@ -24,6 +24,7 @@ Each notebook focuses on a single core concept - from building your first neural
 > *"Master computer vision through progressive hands-on examples and real-world applications"* - Build your expertise step-by-step with practical notebooks and clear explanations.
 
 **By Dr. Zaid Al-Huda**
+
 📧 Contact: [zaid@stir.cdu.edu.cn](mailto:zaid@stir.cdu.edu.cn) | [zh6@stir.ac.uk](mailto:zh6@stir.ac.uk) | [zaidalhuda@swjtu.edu.cn](mailto:zaidalhuda@swjtu.edu.cn)
 
 ---
