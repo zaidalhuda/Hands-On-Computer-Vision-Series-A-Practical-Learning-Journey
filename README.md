@@ -14,7 +14,7 @@
 </p>
 
 <!-- Enhanced welcome section -->
-Welcome to the **Hands-On Computer Vision Series** - a comprehensive, **beginner** guide with practicals designed for our students that teaches computer vision through practical hands-on learning.
+Welcome to the **Hands-On Computer Vision Series** - a comprehensive, **beginner** guide with practicals designed to teach computer vision through practical hands-on learning.
 
 🎓 **Perfect for Beginners**: These practicals are specifically designed for students who are just starting to learn computer vision. Each practical provides clear explanations and step-by-step guidance. The difficulty gradually increases, building your expertise from basic concepts to advanced applications.
 
